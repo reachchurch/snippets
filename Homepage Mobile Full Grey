@@ -1,0 +1,13 @@
+<!--fullContentGrey -->
+  <div id="mobileDetails">
+    <div class="fullContentGrey">
+      <h2 class="homeSectionTitle">sunday times &amp; location</h2>
+        <p style="text-align: center;"><span style="text-align: center;">
+          9:30 &amp; 11:15am
+          Lake Washington High School
+          Kirkland, WA
+          </span>
+  [mainbutton link="https://www.google.com/maps/dir//Reach+Church,+12033+Northeast+80th+Street,+Kirkland,+WA+98033/@47.682759,-122.190668,11z/data=!4m9!4m8!1m0!1m5!1m1!1s0x549012c783080a79:0x906d640fa5dd734f!2m2!1d-122.1817392!2d47.6746926!3e0?hl=en-US" text="get directions" target="new"]</p>
+
+</div>
+<!-- end fullContentGrey -->
